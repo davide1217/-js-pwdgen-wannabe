@@ -23,4 +23,4 @@ const password = firstName + lastName + preferedColor + '22'
 
 console.log(password)
 
-document.getElementById('_password').innerHTML = password
+document.getElementById('__password').innerHTML = password
